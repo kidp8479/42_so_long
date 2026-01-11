@@ -3,7 +3,7 @@
 ![So Long Cover](cover-so_long.png)
 ![So Long Home](so_long_home.png)
 
-The awesome Dino tileset was made courtesy of the also awesome : @TEMOANA - [Temoana Github](https://github.com/TEMOANA)
+The awesome Dino tileset was made courtesy of the also awesome : @TEMOANA - [Temoana Github](https://github.com/TEMOANA) millions thanks for that.
 
 ## Description
 
