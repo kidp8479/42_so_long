@@ -3,6 +3,8 @@
 ![So Long Cover](cover-so_long.png)
 ![So Long Home](so_long_home.png)
 
+The awesome Dino tileset was made courtesy of the also awesome : @TEMOANA - [Temoana Github](https://github.com/TEMOANA)
+
 ## Description
 
 So Long is our introduction to graphical programming in C. This project challenges us to create a small 2D game using the MiniLibX graphics library, where we learn the fundamentals of window management, event handling, image rendering, and game loop implementation.
